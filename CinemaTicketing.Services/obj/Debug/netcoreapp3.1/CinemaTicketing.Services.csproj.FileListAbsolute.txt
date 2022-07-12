@@ -1,0 +1,14 @@
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\bin\Debug\netcoreapp3.1\CinemaTicketing.Services.deps.json
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\bin\Debug\netcoreapp3.1\CinemaTicketing.Services.dll
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\bin\Debug\netcoreapp3.1\CinemaTicketing.Services.pdb
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\obj\Debug\netcoreapp3.1\CinemaTicketing.Services.csproj.AssemblyReference.cache
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\obj\Debug\netcoreapp3.1\CinemaTicketing.Services.AssemblyInfoInputs.cache
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\obj\Debug\netcoreapp3.1\CinemaTicketing.Services.AssemblyInfo.cs
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\obj\Debug\netcoreapp3.1\CinemaTicketing.Services.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\obj\Debug\netcoreapp3.1\CinemaTicketing.Services.dll
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\obj\Debug\netcoreapp3.1\CinemaTicketing.Services.pdb
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\bin\Debug\netcoreapp3.1\CinemaTicketing.Domain.dll
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\bin\Debug\netcoreapp3.1\CinemaTicketing.Repository.dll
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\bin\Debug\netcoreapp3.1\CinemaTicketing.Domain.pdb
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\bin\Debug\netcoreapp3.1\CinemaTicketing.Repository.pdb
+C:\Users\Nikola Nushev\source\repos\CinemaTicketing\CinemaTicketing.Services\obj\Debug\netcoreapp3.1\CinemaTicketing.Services.csproj.CopyComplete

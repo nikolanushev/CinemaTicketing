@@ -1,0 +1,40 @@
+﻿@model List<CinemaTicketing.Domain.DomainModels.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Movies" asp-action="Create">New movie</a>
+    </div>
+
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+
+        if (i % 3 == 0)
+        {
+            @:<div class="row">
+            }
+
+            <div class="card" style="width: 20rem; margin:10px;">
+                <img class="card-img-top" src="@item.MovieImage" alt="Card image cap" style="height:90%; width:100%">
+                <div class="card-body">
+                    <h5 class="card-title">@item.MovieName</h5>
+                    <p><small>@item.Genre</small></p>
+                    <p class="card-text">@item.MovieDesrciption</p>
+                    <a href="" class="btn btn-info">Add to card</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                </div>
+            </div>
+
+            if (i % 3 == 2)
+            {
+            @:</div>
+        }
+    }
+
+</div>
